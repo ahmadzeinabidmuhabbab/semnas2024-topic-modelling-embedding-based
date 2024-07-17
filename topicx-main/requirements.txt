@@ -1,0 +1,6 @@
+octis
+umap-learn
+hdbscan
+simcse==0.4
+plotly
+flair
