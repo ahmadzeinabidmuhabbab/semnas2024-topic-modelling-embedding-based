@@ -4,3 +4,8 @@
 /embeddings_indobert-large-p1.npy
 /embeddings_xlm-roberta-base.npy
 /embeddings_xlm-roberta-large.npy
+/embeddings_bert-base-multilingual-uncased.npy
+/embeddings_bert-base-multilingual-uncased_rev.npy
+/embeddings_indobert-large-p1_rev.npy
+/embeddings_fasttext_rev.npy
+/embeddings_indobert-base-p1_rev.npy
